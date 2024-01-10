@@ -29,7 +29,7 @@ setup(
         "Intended Audience :: End Users/Desktop",
         "Intended Audience :: Education",
         "Topic :: Scientific/Engineering :: Visualization",
-        "Topic :: Artistic Software"
+        "Topic :: Artistic Software",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
