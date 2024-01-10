@@ -2,6 +2,7 @@
 
 
 ![Language](https://img.shields.io/badge/language-Python%203.6-3572A5.svg?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/EterDelta/PicTone?style=flat-square)
 
 PicTone is a simple, fun Python CLI tool that converts images into vectorscope audios. It supports tweaking multiple parameters and sampling sequences of images.
 
